@@ -1,3 +1,4 @@
 my first line
 2nd line in feature1 branch
 3rd line in master branch
+7th line in feature
