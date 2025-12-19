@@ -1,3 +1,9 @@
+my first line
+2nd line in feature1 branch
+3rd line in master branch
+tried sometthing
 4th line in main
 5th line in main
 8th line
+6 th line
+
