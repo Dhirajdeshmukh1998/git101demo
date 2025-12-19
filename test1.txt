@@ -1,11 +1,11 @@
 my first line
 2nd line in feature1 branch
 3rd line in master branch
+7th line in feature
 tried sometthing
 4th line in main
 5th line in main
 8th line
 6 th line
-9th trial line on origin or main
-10th line
+9th trial line on origin or mai
 
